@@ -1,8 +1,8 @@
 <b>Hey, I'm Aaron Bird!</b> 
 
-I work as a backend developer mostly with the Microsoft stack proficient in C# development. I am based in Cedar Park Texas.
+I work as a backend developer mostly with the Microsoft stack and am proficient in C# development. I am based in Cedar Park Texas.
 
-I have a special interest in modern technology that pushes theboundaries of what back-end development can do. 
+I have a special interest in modern technology that pushes the boundaries of what back-end development can do. 
 All my previous work was in a small team or as an individual full stack developer. 
 These roles have allowed me to develop valuable skills which propagate throughout the entire stack of a product. 
 As part of a team and an individual – I have been able to implement and deliver performant and highly scalable/reliable applications to the clients at my previous job.
