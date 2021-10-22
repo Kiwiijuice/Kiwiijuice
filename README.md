@@ -1,4 +1,4 @@
-<b>Hey, I'm Aaron Bird!</b>
+<b>Hey, I'm Aaron Bird!</b> 
 
 I work as a backend developer mostly with the Microsoft stack proficient in C# development. I am based in Cedar Park Texas.
 
