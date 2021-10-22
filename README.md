@@ -9,6 +9,9 @@ As part of a team and an individual – I have been able to implement and delive
 
 I am currently focusing on learning a broader range of technologies starting with Python.
 
+<h1> Find me here </h1>
+
+www.linkedin.com/in/aaron-bird-95570b15b
 
 
 <!---
